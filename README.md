@@ -1,5 +1,9 @@
 # my-favorite-tech-talks
 
+## Table of Contents
+* [Front-End](#front-end)
+* [Software Quality](#software-quality)
+
 ## Front-End
 
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
@@ -16,6 +20,10 @@
 | Working with JavaScript Modules | Jonathan Mills | Pluralsight | English | ✅ | 45m | October 8, 2019 | [🔗](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents) |
 | Practical Design Patterns in JavaScript | Jonathan Mills | Pluralsight | English | ✅ | 3h 10m | January 15, 2016 | [🔗](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents) |
 
-
+## Software Quality
+| Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
+| :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Let's Talk About Documentation | Mike Hand | Pluralsight | English | ✅ | 1h | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-66/table-of-contents) |
+| Readme Driven Development | Fatih Kadir Akın | YouTube | Turkish | ❌ | 1h 52m | April 2, 2019 | [🔗](https://www.youtube.com/watch?v=BezrqvAe-UY) |
 
 
