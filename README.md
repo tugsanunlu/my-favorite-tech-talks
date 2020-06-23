@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Front-End](#front-end)
 * [Software Quality](#software-quality)
+* [Web Security](#web-security)
 
 ## Front-End
 
@@ -25,5 +26,13 @@
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
 | Let's Talk About Documentation | Mike Hand | Pluralsight | English | ✅ | 1h | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-66/table-of-contents) |
 | Readme Driven Development | Fatih Kadir Akın | YouTube | Turkish | ❌ | 1h 52m | April 2, 2019 | [🔗](https://www.youtube.com/watch?v=BezrqvAe-UY) |
+
+## Web Security
+| Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
+| :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Secure Development | Ömer Çıtak | YouTube | Turkish | ❌ | 1h 46m | May 30, 2020 | [🔗](https://www.youtube.com/watch?v=FYP9C7DOtOU) |
+| Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? | Mehmet İnce | Twitch | Turkish | ❌ | 1h 57m | May 8, 2020 | [🔗](https://www.twitch.tv/videos/615150454?collection=7bFk-OrtFRZlcw) |
+| XSS Güvenlik Zafiyeti Hakkında Her Şey #1 | Mehmet İnce | Twitch | Turkish | ❌ | 2h 10m | May 25, 2020 | [🔗](https://www.twitch.tv/videos/631760884?collection=7bFk-OrtFRZlcw) |
+| XSS Güvenlik Zafiyeti Hakkında Her Şey #2 | Mehmet İnce | Twitch | Turkish | ❌ | 2h 8m | May 27, 2020 | [🔗](https://www.twitch.tv/videos/633696324?collection=7bFk-OrtFRZlcw) |
 
 
