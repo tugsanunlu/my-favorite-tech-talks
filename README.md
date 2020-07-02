@@ -3,7 +3,8 @@
 ## Table of Contents
 * [Front-End](#front-end)
 * [Software Quality](#software-quality)
-* [Web/Web Security](#web-web-security)
+* [Web](#web)
+* [Cyber Security](#cyber-security)
 * [GNU/Linux](#gnu-linux)
 * [Free Software/Open Source](#free-software-open-source)
 * [Cryptography](#cryptography)
@@ -33,14 +34,19 @@
 | Readme Driven Development | Fatih Kadir Akın | YouTube | Turkish | ❌ | 1h 52m | April 2, 2019 | [🔗](https://www.youtube.com/watch?v=BezrqvAe-UY) |
 | Temiz Kod Tasarımı | Lemi Orhan Ergin | YouTube | Turkish | ❌ | 39m | May 12, 2017 | [🔗](https://www.youtube.com/watch?v=7m88T8-96X4) |
 
-## <a name="web-web-security"></a>Web/Web Security
+## Web
+| Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
+| :- | :- | :- | :- | :-: | :- | :-: | :- |
+| HTTP ile İlgili Bilmemiz Gerekenler | Gökhan Şengün | YouTube | Turkish | ❌ | 2h 4m | December 28, 2016 | [🔗](https://www.youtube.com/watch?v=oV_0yuCxiFU) |
+
+## Cyber Security
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
 | Secure Development | Ömer Çıtak | YouTube | Turkish | ❌ | 1h 46m | May 30, 2020 | [🔗](https://www.youtube.com/watch?v=FYP9C7DOtOU) |
 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? | Mehmet İnce | Twitch | Turkish | ❌ | 1h 57m | May 8, 2020 | [🔗](https://www.twitch.tv/videos/615150454?collection=7bFk-OrtFRZlcw) |
 | XSS Güvenlik Zafiyeti Hakkında Her Şey #1 | Mehmet İnce | Twitch | Turkish | ❌ | 2h 10m | May 25, 2020 | [🔗](https://www.twitch.tv/videos/631760884?collection=7bFk-OrtFRZlcw) |
 | XSS Güvenlik Zafiyeti Hakkında Her Şey #2 | Mehmet İnce | Twitch | Turkish | ❌ | 2h 8m | May 27, 2020 | [🔗](https://www.twitch.tv/videos/633696324?collection=7bFk-OrtFRZlcw) |
-| HTTP ile İlgili Bilmemiz Gerekenler | Gökhan Şengün | YouTube | Turkish | ❌ | 2h 4m | December 28, 2016 | [🔗](https://www.youtube.com/watch?v=oV_0yuCxiFU) |
+| Live 0day Hunting on Stage | Mehmet İnce | YouTube | Turkish | ❌ | 1h | July 31, 2019 | [🔗](https://www.youtube.com/watch?v=ERUGmydEN-o) |
 
 ## <a name="gnu-linux"></a>GNU/Linux
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
