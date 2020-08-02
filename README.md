@@ -42,6 +42,7 @@
 ## Cyber Security
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Secure Coding: Preventing Sensitive Data Exposure | Timothy Ghanim | Pluralsight | English | ✅ | 1h 23m | September 24, 2019 | [🔗](https://app.pluralsight.com/library/courses/secure-coding-preventing-sensitive-data-exposure) |
 | Session'ı ve CSRF Zafiyetini Anlamak | Mehmet İnce | YouTube | Turkish | ❌ | 2h 5m | May 28, 2020 | [🔗](https://www.youtube.com/watch?v=CKHai0OW6BY) |
 | Secure Development | Ömer Çıtak | YouTube | Turkish | ❌ | 1h 46m | May 30, 2020 | [🔗](https://www.youtube.com/watch?v=FYP9C7DOtOU) |
 | Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? | Mehmet İnce | Twitch | Turkish | ❌ | 1h 57m | May 8, 2020 | [🔗](https://www.twitch.tv/videos/615150454?collection=7bFk-OrtFRZlcw) |
