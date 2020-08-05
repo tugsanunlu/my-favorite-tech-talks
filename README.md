@@ -42,6 +42,7 @@
 ## Cyber Security
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Ethical Hacking: Social Engineering | Troy Hunt | Pluralsight | English | ✅ | 4h 36m | September 13, 2019 | [🔗](https://app.pluralsight.com/library/courses/ethical-hacking-social-engineering) |
 | Secure Coding: Preventing Sensitive Data Exposure | Timothy Ghanim | Pluralsight | English | ✅ | 1h 23m | September 24, 2019 | [🔗](https://app.pluralsight.com/library/courses/secure-coding-preventing-sensitive-data-exposure) |
 | Session'ı ve CSRF Zafiyetini Anlamak | Mehmet İnce | YouTube | Turkish | ❌ | 2h 5m | May 28, 2020 | [🔗](https://www.youtube.com/watch?v=CKHai0OW6BY) |
 | Secure Development | Ömer Çıtak | YouTube | Turkish | ❌ | 1h 46m | May 30, 2020 | [🔗](https://www.youtube.com/watch?v=FYP9C7DOtOU) |
