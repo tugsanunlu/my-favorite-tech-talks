@@ -42,6 +42,7 @@
 ## Cyber Security
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Sahte Siteler | Mehmet İnce, Can Yıldızlı, Koryak Uzan | Twitch | Turkish | ❌ | 2h 30m | August 12, 2020 | [🔗](https://www.twitch.tv/videos/708117886?filter=archives&sort=time) |
 | IDOR Insecure Direct Object Reference Zafiyetleri | Mehmet İnce | YouTube | Turkish | ❌ | 2h 7m | May 28, 2020 | [🔗](https://www.youtube.com/watch?v=TsJ2XPuGe1k) |
 | Ethical Hacking: Social Engineering | Troy Hunt | Pluralsight | English | ✅ | 4h 36m | September 13, 2019 | [🔗](https://app.pluralsight.com/library/courses/ethical-hacking-social-engineering) |
 | Secure Coding: Preventing Sensitive Data Exposure | Timothy Ghanim | Pluralsight | English | ✅ | 1h 23m | September 24, 2019 | [🔗](https://app.pluralsight.com/library/courses/secure-coding-preventing-sensitive-data-exposure) |
