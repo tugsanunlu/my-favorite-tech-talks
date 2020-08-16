@@ -8,6 +8,7 @@
 * [GNU/Linux](#gnu-linux)
 * [Free Software/Open Source](#free-software-open-source)
 * [Cryptography](#cryptography)
+* [API](#api)
 * [Others](#others)
 
 ## Front-End
@@ -68,6 +69,12 @@
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
 | Pratik Kriptografi ve Güvenlik Konseptleri | Gökhan Şengün | YouTube | Turkish | ❌ | 1h 58m | February 19, 2018 | [🔗](https://www.youtube.com/watch?v=gdI71QhJ1H0) 
+
+## API
+| Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
+| :- | :- | :- | :- | :-: | :- | :-: | :- |
+| GraphQL 101 - REST servislerin nesi eksik? | Mert Susur | YouTube | Turkish | ❌ | 1h 25m | May 27, 2018 | [🔗](https://www.youtube.com/watch?v=SXaqNuY9mYo)
+| GraphQL | Fatih Kadir Akın | YouTube | Turkish | ❌ | 53m | March 19, 2017 | [🔗](https://www.youtube.com/watch?v=s90xJgr-w6Y)
 
 ## Others
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
