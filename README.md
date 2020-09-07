@@ -15,6 +15,7 @@
 
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Ölçeklenebilir Modern Paket Yönetimi & Yarn | Burak Yiğit Kaya | YouTube | Turkish | ❌ | 42m | September 18, 2018 | [🔗](https://www.youtube.com/watch?v=jdrX21TeZX8) |
 | Asynchronous Code Execution Under the Hood | Burak Güneli | YouTube | Turkish | ❌ | 1h 31m | May 21, 2020 | [🔗](https://www.youtube.com/watch?v=1kWEGf218g4) |
 | React State: Redux & Context & Hooks | Michael Moran | Pluralsight | English | ✅ | 42m | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-60/table-of-contents) |
 | Human Readable JavaScript | Laurie Barth | Pluralsight | English | ✅ | 51m | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-69/table-of-contents) |
