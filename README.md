@@ -9,12 +9,14 @@
 * [Free Software/Open Source](#free-software-open-source)
 * [Cryptography](#cryptography)
 * [API](#api)
+* [Documentation](#documentation)
 * [Others](#others)
 
 ## Front-End
 
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Managing Files with Node.js | Nate Taylor | Pluralsight | English | ✅ | 1h 26m | October 18, 2019 | [🔗](https://app.pluralsight.com/library/courses/managing-files-node-js/table-of-contents) |
 | Ölçeklenebilir Modern Paket Yönetimi & Yarn | Burak Yiğit Kaya | YouTube | Turkish | ❌ | 42m | September 18, 2018 | [🔗](https://www.youtube.com/watch?v=jdrX21TeZX8) |
 | Asynchronous Code Execution Under the Hood | Burak Güneli | YouTube | Turkish | ❌ | 1h 31m | May 21, 2020 | [🔗](https://www.youtube.com/watch?v=1kWEGf218g4) |
 | React State: Redux & Context & Hooks | Michael Moran | Pluralsight | English | ✅ | 42m | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-60/table-of-contents) |
@@ -32,8 +34,6 @@
 ## Software Quality
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
-| Let's Talk About Documentation | Mike Hand | Pluralsight | English | ✅ | 1h | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-66/table-of-contents) |
-| Readme Driven Development | Fatih Kadir Akın | YouTube | Turkish | ❌ | 1h 52m | April 2, 2019 | [🔗](https://www.youtube.com/watch?v=BezrqvAe-UY) |
 | Temiz Kod Tasarımı | Lemi Orhan Ergin | YouTube | Turkish | ❌ | 39m | May 12, 2017 | [🔗](https://www.youtube.com/watch?v=7m88T8-96X4) |
 
 ## Web
@@ -76,6 +76,13 @@
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
 | GraphQL 101 - REST servislerin nesi eksik? | Mert Susur | YouTube | Turkish | ❌ | 1h 25m | May 27, 2018 | [🔗](https://www.youtube.com/watch?v=SXaqNuY9mYo)
 | GraphQL | Fatih Kadir Akın | YouTube | Turkish | ❌ | 53m | March 19, 2017 | [🔗](https://www.youtube.com/watch?v=s90xJgr-w6Y)
+
+## Documentation
+| Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
+| :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Özgür Yazılımlarda Belgelendirme ve 'Tutorial' Yazımı | Uğur Arıcı | YouTube | Turkish | ❌ | 42m | October 10, 2020 | [🔗](https://www.youtube.com/watch?v=6iAFnxgqfuc) |
+| Let's Talk About Documentation | Mike Hand | Pluralsight | English | ✅ | 1h | February 7, 2020 | [🔗](https://app.pluralsight.com/library/courses/codemash-session-66/table-of-contents) |
+| Readme Driven Development | Fatih Kadir Akın | YouTube | Turkish | ❌ | 1h 52m | April 2, 2019 | [🔗](https://www.youtube.com/watch?v=BezrqvAe-UY) |
 
 ## Others
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
