@@ -16,6 +16,8 @@
 
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Frontend Uygulamaları için Görsel Tarayıcı Otomasyon Testleri | Levent Arman Özak | YouTube | Turkish | ✅ | 44m | December 14, 2020 | [🔗](https://www.youtube.com/watch?v=qhjEBVBTNaU) |
+| Fonksiyonel JavaScript | Umut Özel | YouTube | Turkish | ✅ | 44m | December 21, 2020 | [🔗](https://www.youtube.com/watch?v=au5B6Un7dOg) |
 | Managing Files with Node.js | Nate Taylor | Pluralsight | English | ✅ | 1h 26m | October 18, 2019 | [🔗](https://app.pluralsight.com/library/courses/managing-files-node-js/table-of-contents) |
 | Ölçeklenebilir Modern Paket Yönetimi & Yarn | Burak Yiğit Kaya | YouTube | Turkish | ❌ | 42m | September 18, 2018 | [🔗](https://www.youtube.com/watch?v=jdrX21TeZX8) |
 | Asynchronous Code Execution Under the Hood | Burak Güneli | YouTube | Turkish | ❌ | 1h 31m | May 21, 2020 | [🔗](https://www.youtube.com/watch?v=1kWEGf218g4) |
@@ -34,6 +36,7 @@
 ## Software Quality
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Yazılım Tasarımı ve Modülerlik Üzerine Yeniden Düşünmek | Lemi Orhan Ergin | YouTube | Turkish | ✅ | 40m | December 16, 2017 | [🔗](https://www.youtube.com/watch?v=pdtpWYNBzqM) |
 | Temiz Kod Tasarımı | Lemi Orhan Ergin | YouTube | Turkish | ❌ | 39m | May 12, 2017 | [🔗](https://www.youtube.com/watch?v=7m88T8-96X4) |
 
 ## Web
