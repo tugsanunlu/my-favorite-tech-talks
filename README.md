@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Front-End](#front-end)
-* [Software Quality](#software-quality)
+* [Software Development/Quality](#software-development-quality)
 * [Web](#web)
 * [Cyber Security](#cyber-security)
 * [GNU/Linux](#gnu-linux)
@@ -33,9 +33,10 @@
 | Working with JavaScript Modules | Jonathan Mills | Pluralsight | English | ✅ | 45m | October 8, 2019 | [🔗](https://app.pluralsight.com/library/courses/working-javascript-modules/table-of-contents) |
 | Practical Design Patterns in JavaScript | Jonathan Mills | Pluralsight | English | ✅ | 3h 10m | January 15, 2016 | [🔗](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents) |
 
-## Software Quality
+## Software Development/Quality
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Regular Expressions | Gökhan Kandemir | YouTube | Turkish | ✅ | 1h 38m | December 29, 2020 | [🔗](https://www.youtube.com/watch?v=bF_zEzFQZuA) |
 | Yazılım Tasarımı ve Modülerlik Üzerine Yeniden Düşünmek | Lemi Orhan Ergin | YouTube | Turkish | ✅ | 40m | December 16, 2017 | [🔗](https://www.youtube.com/watch?v=pdtpWYNBzqM) |
 | Temiz Kod Tasarımı | Lemi Orhan Ergin | YouTube | Turkish | ❌ | 39m | May 12, 2017 | [🔗](https://www.youtube.com/watch?v=7m88T8-96X4) |
 
