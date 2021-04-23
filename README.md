@@ -16,6 +16,9 @@
 
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
+| Creating Reusable React Components | Cory House | Pluralsight | English | ✅ | 6h 20m | June 5, 2017 | [🔗](https://app.pluralsight.com/library/courses/react-creating-reusable-components/table-of-contents) |
+| Functional-Lite JavaScript | Kyle Simpson | Pluralsight | English | ✅ | 3h 9m | February 22, 2018 | [🔗](https://app.pluralsight.com/library/courses/functional-lite-javascript/table-of-contents) |
+| Frontend Uygulamaları için Görsel Tarayıcı Otomasyon Testleri | Levent Arman Özak | YouTube | Turkish | ✅ | 44m | December 14, 2020 | [🔗](https://www.youtube.com/watch?v=qhjEBVBTNaU) |
 | Frontend Uygulamaları için Görsel Tarayıcı Otomasyon Testleri | Levent Arman Özak | YouTube | Turkish | ✅ | 44m | December 14, 2020 | [🔗](https://www.youtube.com/watch?v=qhjEBVBTNaU) |
 | Fonksiyonel JavaScript | Umut Özel | YouTube | Turkish | ✅ | 44m | December 21, 2020 | [🔗](https://www.youtube.com/watch?v=au5B6Un7dOg) |
 | Managing Files with Node.js | Nate Taylor | Pluralsight | English | ✅ | 1h 26m | October 18, 2019 | [🔗](https://app.pluralsight.com/library/courses/managing-files-node-js/table-of-contents) |
@@ -48,7 +51,8 @@
 ## Cyber Security
 | Title | Speaker | Platform | Language | Subtitle | Duration | Publish Date | Link | 
 | :- | :- | :- | :- | :-: | :- | :-: | :- |
-| Web Cache Poisoning | Mehmet İnce | YouTube | Turkish | ❌ | 54m | February 23, 2020 | [🔗](https://www.youtube.com/watch?v=U5bx4ZXdmRI) |
+| OAuth Vulnerabilities | Mehmet İnce | YouTube | Turkish | ❌ | 1h | February 2, 2021 | [🔗](https://www.youtube.com/watch?v=R8K6e-oTmwo&list=LL&index=41) |
+| Web Cache Poisoning | Mehmet İnce | YouTube | Turkish | ❌ | 54m | February 23, 2021 | [🔗](https://www.youtube.com/watch?v=U5bx4ZXdmRI) |
 | Source Code Review | Mehmet İnce | YouTube | Turkish | ❌ | 57m | December 24, 2020 | [🔗](https://www.youtube.com/watch?v=V_ogHUIF8E0) |
 | HTTP Strict Transport Security  | Mehmet İnce | YouTube | Turkish | ❌ | 1h 24m | December 3, 2020 | [🔗](https://www.youtube.com/watch?v=XlgG-Aw2nos) |
 | Sahte Siteler | Mehmet İnce, Can Yıldızlı, Koryak Uzan | Twitch | Turkish | ❌ | 2h 30m | August 12, 2020 | [🔗](https://www.twitch.tv/videos/708117886?filter=archives&sort=time) |
